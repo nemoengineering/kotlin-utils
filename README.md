@@ -1,4 +1,4 @@
-# Meilisearch Kotlin Client
+# Kotlin Utility Library
 
 [![](https://jitpack.io/v/nemoengineering/kotlin-utils.svg)](https://jitpack.io/#nemoengineering/kotlin-utils)
 [![CD/CI Workflow](https://github.com/nemoengineering/kotlin-utils/actions/workflows/cdci-workflow.yml/badge.svg)](https://github.com/nemoengineering/kotlin-utils/actions/workflows/cdci-workflow.yml)
